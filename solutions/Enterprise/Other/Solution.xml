@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ImportExportXml version="9.2.26083.148" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.26083.148" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.26084.00142">
+<ImportExportXml version="9.2.26084.142" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.26084.142" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.26085.00142">
   <SolutionManifest>
     <UniqueName>Enterprise</UniqueName>
     <LocalizedNames>
@@ -82,6 +82,7 @@
     <RootComponents>
       <RootComponent type="1" schemaName="account" behavior="0" />
       <RootComponent type="1" schemaName="contact" behavior="0" />
+      <RootComponent type="29" id="{663ef121-70ae-f111-aaab-000d3af2e681}" behavior="0" />
       <RootComponent type="29" id="{e085667a-a28e-f111-8076-000d3ac9c108}" behavior="0" />
     </RootComponents>
     <MissingDependencies>
